@@ -102,10 +102,10 @@ body {
 }
 
 .divider {
-  width: 50px;
+  width: 60px;
   height: 2px;
   background-color: #4caf50;
-  margin: 10px 0;
+  margin: 10px auto;
 }
 
 .product-button {

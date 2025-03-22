@@ -30,3 +30,9 @@
   .plant_logo_left{
     text-align: left;
   }
+
+@media screen and (min-width: 768px){
+    .about-us-container {
+        width: 1000px;
+    }
+}
